@@ -1,2 +1,3 @@
 # Laplacian-Mesh-Smoothing
-Pat1: desecrate curvature and spectral meshes 
+Part1: desecrate curvature and spectral meshes 
+Part2: Laplacian mesh smoothing
